@@ -1,6 +1,6 @@
 # Express + Pino + Pino-Seq
 
-This is a example app created by using [`express-generator`](https://github.com/expressjs/express) and adding [`pino`](https://github.com/pinojs/pino) and [`pino-seq`](https://github.com/datalust/pino-seq) packages.
+This is a example app created by using [`express-generator`](https://github.com/expressjs/express) and adding [`express-pino-logger`](https://github.com/pinojs/express-pino-logger) and [`pino-seq`](https://github.com/datalust/pino-seq) packages.
 
 It's used to test end-to-end logging from a node.js app to [Seq](https://datalust.co/seq), using the [`pino`](https://github.com/pinojs/pino) logging library.
 
